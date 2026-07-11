@@ -1,0 +1,8 @@
+.idea/
+/Datasets/*
+!/Datasets/.gitkeep
+
+/Output/*
+!/Output/.gitkeep
+/Extensions/
+.env
